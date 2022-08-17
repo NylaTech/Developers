@@ -1,0 +1,9 @@
+Subject: Low Memory Alert
+
+
+"To whom it may concern
+Pay close attention to following message:"
+
+The Memory is too low
+The current value is : 479820
+The admin should take immediate action
