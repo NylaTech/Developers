@@ -1,3 +1,5 @@
 echo " the free memory is : "
 free | grep Mem | cut -d " " -f 22
 echo "the memory is low"
+echo "the memory is very low"
+echo "I am on it"
