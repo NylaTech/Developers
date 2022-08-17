@@ -1,1 +1,2 @@
-free | grep Mem | cut -d " " -f 23
+echo " the free memory is : "
+free | grep Mem | cut -d " " -f 22
